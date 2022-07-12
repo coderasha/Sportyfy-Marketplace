@@ -1,0 +1,19 @@
+{
+  "name": "sportyfy-marketplace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderasha/Sportyfy-Marketplace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderasha/Sportyfy-Marketplace/issues"
+  },
+  "homepage": "https://github.com/coderasha/Sportyfy-Marketplace#readme"
+}
